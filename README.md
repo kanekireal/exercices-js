@@ -24,7 +24,7 @@ ___
 4. [ ] [Operator](04-operators)
     - [x] [Increment order](04-operators/1-simple-page)
     - [x] [Assignment result](04-operators/2-assignment-result)
-    - [ ] [Primitive conversions questions](04-operators/3-primitive-conversions-questions)
+    - [x] [Primitive conversions questions](04-operators/3-primitive-conversions-questions)
     - [ ] [Fix prompt](04-operators/4-fix-prompt)
 5. [ ] [Comparison](05-comparison)
     - [ ] [Comparison question](05-comparison/1-comparison-questions)
