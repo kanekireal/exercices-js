@@ -22,7 +22,7 @@ ___
 3. [x] [alert, prompt, confirm](03-alert-prompt-confirm/1-simple-page)
     - [x] [Simple page](03-alert-prompt-confirm)
 4. [ ] [Operator](04-operators)
-    - [ ] [Increment order](04-operators/1-simple-page)
+    - [x] [Increment order](04-operators/1-simple-page)
     - [ ] [Assignment result](04-operators/2-assignment-result)
     - [ ] [Primitive conversions questions](04-operators/3-primitive-conversions-questions)
     - [ ] [Fix prompt](04-operators/4-fix-prompt)
