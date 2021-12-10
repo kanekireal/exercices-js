@@ -31,7 +31,7 @@ ___
 6. [ ] [if else](06-ifelse)
     - [x] [if zero string](06-ifelse/1-if-zero-string)
     - [x] [Check standard](06-ifelse/2-check-standard)
-    - [ ] [Sign](06-ifelse/3-sign)
+    - [x] [Sign](06-ifelse/3-sign)
     - [ ] [Rewrite if question](06-ifelse/5-rewrite-if-question)
     - [ ] [Rewrite if else question](06-ifelse/6-rewrite-if-else-question)
 7. [ ] [Logical operator](07-logical-operators)
