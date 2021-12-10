@@ -32,7 +32,7 @@ ___
     - [x] [if zero string](06-ifelse/1-if-zero-string)
     - [x] [Check standard](06-ifelse/2-check-standard)
     - [x] [Sign](06-ifelse/3-sign)
-    - [ ] [Rewrite if question](06-ifelse/5-rewrite-if-question)
+    - [x] [Rewrite if question](06-ifelse/5-rewrite-if-question)
     - [ ] [Rewrite if else question](06-ifelse/6-rewrite-if-else-question)
 7. [ ] [Logical operator](07-logical-operators)
     - [ ] [alert null 2 undefined](07-logical-operators/1-alert-null-2-undefined)
