@@ -29,7 +29,7 @@ ___
 5. [x] [Comparison](05-comparison)
     - [x] [Comparison question](05-comparison/1-comparison-questions)
 6. [ ] [if else](06-ifelse)
-    - [ ] [if zero string](06-ifelse/1-if-zero-string)
+    - [x] [if zero string](06-ifelse/1-if-zero-string)
     - [ ] [Check standard](06-ifelse/2-check-standard)
     - [ ] [Sign](06-ifelse/3-sign)
     - [ ] [Rewrite if question](06-ifelse/5-rewrite-if-question)
