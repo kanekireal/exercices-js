@@ -15,7 +15,7 @@ ___
 # _Liste des exercices :_
 1. [ ] [Variables](01-variables) :
     - [x] [Hello variables](01-variables/1-hello-variables)
-    - [ ] [Declare variable](01-variables/2-declare-variables)
+    - [x] [Declare variable](01-variables/2-declare-variables)
     - [ ] [Uppercast constant](01-variables/3-uppercast-constant)
 2. [ ] [Types](02-types)
     - [ ] [String quotes](02-types/1-string-quotes)
