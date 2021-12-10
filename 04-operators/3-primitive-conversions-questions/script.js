@@ -10,7 +10,7 @@
 // => "false" vaut "0"
 // => "\t" vaut 0 (Valeur sur le tableau Unicode")
 // => "\n" vaut 0 (Valeur sur le tableau Unicode")
-// => "undefined" vaux "NaN" (immutable, non convertible, ... , très spécifique)
+// => "undefined" vaux ... (immutable, non convertible, ... , très spécifique)
 
 // Conclusion en fin de fichier ;)
 
