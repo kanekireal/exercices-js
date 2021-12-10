@@ -55,14 +55,14 @@ ___
     - [x] [pow](10-function-basics/4-pow)
 11. [x] [Arrow functions basics](11-arrow-functions-basics)
     - [x] [Rewrite arrow](11-arrow-functions-basics/1-rewrite-arrow)
-12. [ ] [while for](12-while-for)
-    - [ ] [Loop last value](12-while-for/1-loop-last-value)
-    - [ ] [Which value while](12-while-for/2-which-value-while)
-    - [ ] [Which value for](12-while-for/3-which-value-for)
-    - [ ] [for even](12-while-for/4-for-even)
-    - [ ] [Replace for while](12-while-for/5-replace-for-while)
-    - [ ] [Repeat until correct](12-while-for/6-repeat-until-correct)
-    - [ ] [List prime](12-while-for/7-list-primes)
+12. [x] [while for](12-while-for)
+    - [x] [Loop last value](12-while-for/1-loop-last-value)
+    - [x] [Which value while](12-while-for/2-which-value-while)
+    - [x] [Which value for](12-while-for/3-which-value-for)
+    - [x] [for even](12-while-for/4-for-even)
+    - [x] [Replace for while](12-while-for/5-replace-for-while)
+    - [x] [Repeat until correct](12-while-for/6-repeat-until-correct)
+    - [x] [List prime](12-while-for/7-list-primes)
 
 ## _**Bon courage !**_
 ___
