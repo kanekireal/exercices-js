@@ -19,12 +19,18 @@ const C = "2" > "12";
 //Transcription: 0 == 0
 const D = undefined == null;
 // (true)
+
 //Transcription: (typeof undefined) == (typeof null) && 0 == 0
 const E = undefined === null;
 // (false)
 
+//Transcription Step1: null == "\n0\n".length > 0
+//Transcription Step2: 0 == true
+//Transcription Step3: 0 == 1
 const F = null == "\n0\n";
 // (false)
 
+//Transcription Step1: (typeof null) == (typeof +"\n0\n") && null == +"\n0\n"
+//Transcription Step2: (typeof null) == (typeof 0) && 0 == 0
 const G = null === +"\n0\n";
 // (false)
